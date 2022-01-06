@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testowa 1.md",
+            "file": "📚 Książki/Jak zdobyć przyjaciół i zjednać sobie ludzi.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testowa 1.md",
+            "file": "📚 Książki/Jak zdobyć przyjaciół i zjednać sobie ludzi.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testowa 1.md",
+                "file": "📚 Książki/Jak zdobyć przyjaciół i zjednać sobie ludzi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "b2b751ed59f145fc",
   "lastOpenFiles": [
-    "Testowa 1.md"
+    "📚 Książki/Jak zdobyć przyjaciół i zjednać sobie ludzi.md",
+    "Książki.md"
   ]
 }
