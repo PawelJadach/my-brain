@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🎉 Cele roczne/2022.md",
+            "file": "SUMMARY.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🎉 Cele roczne/2022.md",
+            "file": "SUMMARY.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎉 Cele roczne/2022.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +103,10 @@
   },
   "active": "b2b751ed59f145fc",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "🎉 Cele roczne/2022.md",
     "📚 Książki/Jak zdobyć przyjaciół i zjednać sobie ludzi.md",
     "README.md",
-    "SUMMARY.md",
     "Książki.md"
   ]
 }
